@@ -1,3 +1,4 @@
+مک
 from highrise import BaseBot, User, Position
 from highrise.__main__ import BotDefinition
 from asyncio import sleep, create_task, CancelledError
@@ -23,8 +24,8 @@ logger = logging.getLogger(__name__)
 # تنظیمات پیش‌فرض
 CONFIG_FILE = "bot_config.json"
 DEFAULT_CONFIG = {
-    "host_usernames": ["ad0ri"],
-    "admin_usernames": ["ad0ri"],
+    "host_usernames": ["popo_768"],
+    "admin_usernames": ["popo_768"],
     "vip_usernames": [],
     "banned_users": [],
     "teleport_locations": {
