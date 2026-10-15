@@ -1,4 +1,4 @@
-from highrise import BaseBot, User, Position
+ufrom highrise import BaseBot, User, Position
 from highrise.__main__ import BotDefinition
 from asyncio import sleep, create_task, CancelledError
 from urllib.parse import urlparse, parse_qs
